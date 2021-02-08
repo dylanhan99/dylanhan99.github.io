@@ -1,0 +1,30 @@
+#menu ul{
+	list-style: none;
+}
+#menu li{
+	display: inline;
+}
+
+.menu-button{
+	cursor: pointer;
+}
+#hamburger{
+	display: inline-block;
+	width: 35px;
+	height: 5px;
+	background-color: #333;
+	transition: 0.4s;
+}
+#hamburger-bar-1{
+	margin: 6px 0;
+}
+#hamburger-bar-2{
+	margin: 6px 0;
+}
+#hamburger-bar-3{
+	margin: 6px 0;
+}
+
+body{
+	background-color: rgb(240, 240, 240);
+}
